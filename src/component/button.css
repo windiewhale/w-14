@@ -1,0 +1,13 @@
+button {
+    width: 90px;
+    height: 30px;
+    margin-left: 20px;
+
+    border: 2px solid #e40098;
+    box-shadow: 2px 2px #e40098;
+
+    color: #e40098;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
